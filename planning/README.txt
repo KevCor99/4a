@@ -4,4 +4,4 @@ prototipo terminado
 
 size terminado
 wizard
-
+cerrado process dashboard
